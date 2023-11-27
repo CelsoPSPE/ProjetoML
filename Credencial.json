@@ -1,13 +1,13 @@
 {
   "installed": {
-    "client_id": "31811765623-i46mg02s0diidqmnk0ir604tjkt973il.apps.googleusercontent.com",
-    "project_id": "scripts-de-python",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_secret": "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",
+    "client_id": "",
+    "project_id": "",
+    "auth_uri": "",
+    "token_uri": "",
+    "auth_provider_x509_cert_url": "",
+    "client_secret": "",
     "redirect_uris": ["http://localhost"],
-    "refresh_token": "1//0hcEdrBw_f6tHCgYIARAAGBESNwF-L9IrLXblLDyRqGJpoJpsuhBHYw1HkS-YJokJtlR_surdMx7-P8W9MNcZeFtR9ThnKgneTN0"
+    "refresh_token": ""
   }
 }
 
